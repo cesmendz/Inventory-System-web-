@@ -10,4 +10,5 @@ scripts.js (functions and table)
 
 
 *Convert the .html to .php
+
 Go to the XAMPP folder then open htdocs folder and find the folder of the database you created which is (reports) and then move the html,css,js and images.
